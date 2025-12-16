@@ -2,7 +2,7 @@
 # Tekstipohjainen Yatzy-peli
 
 ## Youtube video
-
+https://youtu.be/LqwaOEaTZRI 
 
 ## Projektin idea
 perinteisen yatzyn tylinen noppa peli noppaaa heitetään ja pisteet mahdollista laskea
