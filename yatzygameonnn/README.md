@@ -1,4 +1,8 @@
+
 # Tekstipohjainen Yatzy-peli
+
+## Youtube video
+
 
 ## Projektin idea
 perinteisen yatzyn tylinen noppa peli noppaaa heitetään ja pisteet mahdollista laskea
@@ -21,3 +25,5 @@ perinteisen yatzyn tylinen noppa peli noppaaa heitetään ja pisteet mahdollista
 ## Käynnistäminen
 1. Lataa projekti koneellesi
 2. Avaa terminaali projektikansiossa
+
+
